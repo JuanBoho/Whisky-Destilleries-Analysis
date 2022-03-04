@@ -1,4 +1,4 @@
-# Whisky Destilleries Analysis
+# Whisky Distilleries Analysis
 Case Study 4  
 Python for Research  course (HarvardX). 
 
