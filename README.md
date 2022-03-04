@@ -1,7 +1,6 @@
 # Whisky Destilleries Analysis
 Case Study 4  
-Python for Research  course (HarvardX).  
-(2020)
+Python for Research  course (HarvardX). 
 
 Dataset by [NESSIE](https://outreach.mathstat.strath.ac.uk/outreach/nessie/index.html). Can be found [here](https://outreach.mathstat.strath.ac.uk/outreach/nessie/nessie_whisky.html).
 
